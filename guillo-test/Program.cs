@@ -34,4 +34,6 @@ int CountSubstrings(string value)
 
 //Console.WriteLine(CountSubstrings("asdfghijklmnopqrstuvwxyz"));
 //Console.WriteLine(Program_2.MaxIndex(4, 6));
-Console.WriteLine(Program_3.CountMinimumOperations("abcd"));
+//Console.WriteLine(Program_3.CountMinimumOperations("abcd"));
+//Console.WriteLine(Program_4.GetMinimumOperations("1111"));
+Console.WriteLine(Program_5.GetMinFlips("1110011000"));
